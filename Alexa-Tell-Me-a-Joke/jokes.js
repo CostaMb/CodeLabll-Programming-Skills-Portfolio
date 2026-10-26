@@ -1,4 +1,4 @@
-```javascript
+
 // Stores all jokes in an array.
 // Each joke contains a question and an answer.
 const jokes = [
@@ -155,4 +155,3 @@ const jokes = [
 // Makes the jokes array available to other JavaScript files.
 // The main application imports this array using require('./jokes').
 module.exports = jokes;
-```
