@@ -1,0 +1,23 @@
+
+{
+  "name": "alexa-joke-app",
+  "version": "1.0.0",
+  "description": "An interactive joke application built with JavaScript and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node validate.js"
+  },
+  "keywords": [
+    "alexa",
+    "jokes",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ask-sdk-core": "^2.14.0"
+  }
+}
